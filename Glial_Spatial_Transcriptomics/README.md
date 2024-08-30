@@ -49,6 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * **Zane Jaunmuktane** - *Initial work* 
 
 ## Acknowledgments
+* FUNDING ACKNOWLEDGEMENT: Aligning Science Across Parkinson’s [ASAP 000478] through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
 
 * https://bioconductor.org/packages/devel/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html
 * https://davislaboratory.github.io/GeoMXAnalysisWorkflow/articles/GeoMXAnalysisWorkflow.html
