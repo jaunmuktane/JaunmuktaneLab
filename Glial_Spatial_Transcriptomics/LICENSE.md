@@ -2,9 +2,6 @@ MIT License
 
 Copyright (c) 2024 Zane Jaunmuktane
 
-FUNDING ACKNOWLEDGEMENT:
-Aligning Science Across Parkinson’s [ASAP 000478] through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
